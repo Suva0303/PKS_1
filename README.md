@@ -1,16 +1,17 @@
 # Первое приложение Flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Этапы создания приложения 
+### 1. Загрузка программы для написание кода VSCode и необходимые компоненты для разработки. 
+1. __Загрузить расширение в VSCode Flutter__
+   
+![Vscode](../flutter_application_1\img_readme\photo_5379849810355544292_y.jpg)
+____
+### 2. Установить [Flutter](https://docs.flutter.dev/get-started/install/windows/mobile) на официальном сайте 
+![Flutter](https://res.cloudinary.com/nitishk72/image/upload/v1586796259/nstack_in/courses/flutter/flutter-banner.png)
+ ____
+### 3. Создать проект и запустить его в веб-версии
+![pic](img_readme/photo_5379849810355544350_y.jpg)
+___
+### 4. Подключить эмулятор 
+![pic](img_readme\photo_5390848457096422968_w.jpg)
+___
+djj
